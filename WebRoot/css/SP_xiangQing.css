@@ -1,0 +1,42 @@
+@CHARSET "UTF-8";
+.xiangqing {
+	margin-top: 20px;
+	margin-left: 200px;
+}
+
+.sp_info {
+	font: 18px bold 微软雅黑;
+}
+
+.sp_img {
+	float: left;
+	width: 300px;
+	border: 1px solid #cccccc;
+}
+
+.info_td {
+	margin-top: 15px;
+}
+
+table {
+	padding-left: 60px;
+	height: 350px;
+}
+
+.td_info {
+	padding-left: 10px;
+	font: 15px 微软雅黑;
+}
+
+.red_info {
+	padding-left: 10px;
+	font: 13px 微软雅黑;
+	color: red;
+}
+
+.bom_info {
+	font: 14px 微软雅黑;
+	padding-left: 10px;
+	background-color: #fffceb;
+	border: 1px solid #eed97c;
+}

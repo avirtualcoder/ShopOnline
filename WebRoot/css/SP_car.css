@@ -1,0 +1,50 @@
+@CHARSET "UTF-8";
+
+.sp_table {
+	margin-top: 20px;
+	text-align: center;
+	width: 90%;
+}
+
+a {
+	font: 13px 微软雅黑;
+	color: #1a66b3;
+	text-decoration: none;
+}
+
+.car_th {
+	height: 35px;
+	text-align: center;
+	font: 14px 微软雅黑;
+	color: #8a7152;
+	background-color: #f7f4eb;
+}
+
+.info_td {
+	font: 13px 微软雅黑;
+	color: #9a9a9a;
+	border-bottom: 2px solid #efefef;
+}
+
+#new_price {
+	color: #cc3300;
+}
+
+#number_total {
+	margin-top: 30px;
+	float: right;
+	font: 19px 微软雅黑;
+	margin-right: 50px;
+	text-align: center;
+}
+#price{
+	
+	color:#ff0000 ;
+}
+#price_t{
+margin-top: 20px;
+margin-bottom: 50px;
+}
+#price_t2{
+	margin-bottom: 50px;
+}

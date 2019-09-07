@@ -1,0 +1,107 @@
+@CHARSET "UTF-8";
+
+#booksort{
+
+	float:left;
+	
+ 
+}
+
+#left{
+	float:left;
+	margin-left: 160px;
+}
+.mt{
+	width:202px;
+	height:35px;
+	font-size: 19px;
+	padding-left: 10px;
+	line-height: 35px;
+	background-color: #f6a65b;
+}
+.table1{
+	padding-left: 10px;
+	padding-right: 10px;
+	width:210px;
+	text-align: left;
+	height:70px;
+	border: 1.5px solid #f6a65b;
+}
+.type_info{
+	height:50px;
+	border: none;
+	font: 15px 微软雅黑;
+	border-bottom: dashed 1px #f6a65b;
+}
+.type_info:hover{
+	height:50px;
+	font: 18px 微软雅黑;
+}
+a{
+	color: #2a00f7;
+	text-decoration: none;
+}
+.right{
+	margin-top: 10px;
+	margin-left: 5px;
+	float: inherit;
+}
+#sp_list{
+	border: 3px solid #efefef;
+	width:700px;
+
+}
+#sp_one{
+	color: white;
+	padding-left: 15px;
+	margin: 3px;
+	width: 97%;
+	hight:40px;
+	text-align:left;
+	background-color: #f6ae38;
+	line-height: 40px;
+	text-align: left; 
+}
+form{
+	font:12px 微软雅黑;
+}
+#info{
+	width:400px;
+}
+.info_td:hover{
+	border: none;
+	background-color:white;
+}
+.sp_img{
+	width:50px;
+	height: 50px;
+	
+}
+.sp_img:hover{
+	width:130px;
+	height: 130px;
+	
+}
+.sp_table{
+	text-align: center;
+}
+.sp_info{
+	margin-top:5px;
+	font:14px 宋体;
+	
+}
+.sp_old{
+	font:13px 微软雅黑;
+	color:#031625;
+}
+.sp_new{
+	font:15px 微软雅黑;
+	color:#e50000;
+}
+ 
+ #indo_sous{
+ width:200px;
+ }
+body{
+	background-color:#d1d1d1;
+}
